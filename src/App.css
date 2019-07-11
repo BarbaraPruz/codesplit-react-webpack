@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: white;
+}
+
+.App-nav {
+  display: flex;
+}
+.App-link {
+  color: #61dafb;
+  margin: 10px;
+}
+
